@@ -67,9 +67,9 @@ flick-movie-app/
 
 ### 🔐 Login Page
 
-![Login Page](./screenshots/login-page.png)
+![Login Page](./screenshots/login-page1.png)
 
 
 ### 🏠 Home Page 
 
-![Home Page](./screenshots/home-page.png)
+![Home Page](./screenshots/home-page1.png)
