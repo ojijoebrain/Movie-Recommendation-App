@@ -73,3 +73,8 @@ flick-movie-app/
 ### 🏠 Home Page 
 
 ![Home Page](./screenshots/home-page1.png)
+
+
+###  Registration Page 
+
+![Registration Page](./screenshots/Registration-page.png)
